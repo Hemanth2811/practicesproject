@@ -1,0 +1,3 @@
+sudo ssh update
+sudo apt upgrade
+sudo appt install ansible 
